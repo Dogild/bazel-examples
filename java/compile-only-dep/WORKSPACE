@@ -18,6 +18,6 @@ maven_install(
         maven.artifact("javax.servlet", "servlet-api", "2.5", neverlink = True),
     ],
     repositories = [
-        "https://jcenter.bintray.com",
+        "https://repo1.maven.org/maven2",
     ]
 )

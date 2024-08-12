@@ -17,7 +17,7 @@ maven_install(
         "commons-lang:commons-lang:2.6",
     ],
     repositories = [
-        "https://jcenter.bintray.com",
+        "https://repo1.maven.org/maven2",
     ]
 )
 
